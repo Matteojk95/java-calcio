@@ -6,7 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Allenatore allenatore = new Allenatore("Marco", 32, "offensiva");
         Squadra squadra = new Squadra(allenatore);
-
         String[] nomi = {"michele dalsecco", "paolo albini", "michele ferrante,", "simone zaccagni", "paolo iniesta",
                 "fefipe melo", "paolo maldini", "giuseppe franciosi", "luca arduo", "nantay nyang", " matteo delforte",
                 "simone bini", "fabio nocciolo", "francesco limone", "gianluigi petrarca", "luigi nzoie", "francesco scamacca",
@@ -28,5 +27,8 @@ public class Main {
         System.out.println(squadra.getAllenatore());
 
 
+
+
     }
+
 }
