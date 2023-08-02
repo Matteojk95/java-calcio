@@ -18,8 +18,17 @@ public class Squadra {
         this.giocatoreList = new ArrayList<>();
     }
 
-    //METODI
+    public List<Giocatore> getGiocatoreList() {
+        return giocatoreList;
+    }
 
+    public Allenatore getAllenatore() {
+        return allenatore;
+    }
+//METODI
 
+public void aggiungiGiocatore(Giocatore giocatore){
+        giocatoreList.add(giocatore);
+}
 
 }

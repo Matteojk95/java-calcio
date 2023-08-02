@@ -28,4 +28,11 @@ public class Persona {
     //METODI
 
 
+    @Override
+    public String toString() {
+        return "Persona{" +
+                "nome='" + nome + '\'' +
+                ", eta=" + eta +
+                '}';
+    }
 }

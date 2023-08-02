@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24313b62-2aa3-458b-98db-eab03eab68d0" name="Changes" comment="working on">
+    <list default="true" id="24313b62-2aa3-458b-98db-eab03eab68d0" name="Changes" comment="Manca generare l'età in modo casuale">
+      <change afterPath="$PROJECT_DIR$/src/org/java/Arbitro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/java/Partita.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/java/Allenatore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/java/Allenatore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/java/Giocatore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/java/Giocatore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/java/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/java/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/java/Squadra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/java/Squadra.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +59,20 @@
       <option name="project" value="LOCAL" />
       <updated>1690972805209</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Manca generare l'età in modo casuale">
+      <option name="closed" value="true" />
+      <created>1690974275261</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690974275261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="working on" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on" />
+    <MESSAGE value="Manca generare l'età in modo casuale" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manca generare l'età in modo casuale" />
   </component>
 </project>
